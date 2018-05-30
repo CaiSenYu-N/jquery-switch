@@ -26,7 +26,7 @@
   border: 1px solid #111111;
 }
 .mod-tab .content .panel{
-  padding: 80px;
+  padding: 30px;
   display: none;
 }
 .mod-tab .content .panel.active{
